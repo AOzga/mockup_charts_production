@@ -1,0 +1,62 @@
+{
+	"data":
+	{
+		"chart_hourly":
+		[
+			{"offset":0,"value":3},
+			{"offset":1,"value":4},
+			{"offset":2,"value":2},
+			{"offset":3,"value":1},
+			{"offset":4,"value":3},
+			{"offset":5,"value":3},
+			{"offset":6,"value":3},
+			{"offset":7,"value":4},
+		],
+		"chart_efficiency":
+		[
+			{"offset":0,"value":88},
+			{"offset":1,"value":75},
+			{"offset":2,"value":74},
+			{"offset":3,"value":73},
+			{"offset":4,"value":80},
+			{"offset":5,"value":95},
+			{"offset":6,"value":75},
+			{"offset":7,"value":100},
+		],
+		"chart_quality":
+		[			
+			{"offset":0,"value":85},
+			{"offset":1,"value":90},
+			{"offset":2,"value":85},
+			{"offset":3,"value":85},
+			{"offset":4,"value":85},
+			{"offset":5,"value":63},
+			{"offset":6,"value":84},
+			{"offset":7,"value":116},
+		],
+		"chart_oee":
+		[
+			{"offset":0,"value":100},
+			{"offset":1,"value":75},
+			{"offset":2,"value":52},
+			{"offset":3,"value":1},
+			{"offset":4,"value":15},
+			{"offset":5,"value":35},
+			{"offset":6,"value":75},
+			{"offset":7,"value":100},
+		],
+		"misc_boxes":
+		[
+			{"name":"Executed vs Planned","value":"14/16","color":"#44a27a"},
+			{"name":"Current Efficiency","value":"38%","color":" #f7a600"},
+			{"name":"Current Quality","value":"16%","color":"#d84437"},
+			{"name":"Current Availability","value":"100%","color":"#44a27a"},
+			{"name":"Current OEE","value":"6%","color":"#d84437"},
+			{"name":"Stoppage Time","value":"140min","color":"#d84437"},
+			{"name":"Idle Time","value":"130min","color":"#d84437"},
+			{"name":"Operator Count","value":"22","color":"#44a27a"},
+			{"name":"dev_test","value":"spacerace","color":"#44a27a"}
+		]
+
+	}
+}
