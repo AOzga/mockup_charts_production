@@ -10,7 +10,7 @@
 			{"offset":4,"value":3},
 			{"offset":5,"value":3},
 			{"offset":6,"value":3},
-			{"offset":7,"value":4},
+			{"offset":7,"value":4}
 		],
 		"chart_efficiency":
 		[
@@ -21,7 +21,7 @@
 			{"offset":4,"value":80},
 			{"offset":5,"value":95},
 			{"offset":6,"value":75},
-			{"offset":7,"value":100},
+			{"offset":7,"value":100}
 		],
 		"chart_quality":
 		[			
@@ -43,7 +43,7 @@
 			{"offset":4,"value":15},
 			{"offset":5,"value":35},
 			{"offset":6,"value":75},
-			{"offset":7,"value":100},
+			{"offset":7,"value":100}
 		],
 		"misc_boxes":
 		[
