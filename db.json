@@ -1,41 +1,57 @@
 {
    "data":{
       "shift_info":{"name":"A","start":"2022-08-16T06:00:00.000Z","end":"2022-08-16T14:30:00.000Z"},
-      "chart_hourly":[
+
+      "chart_hourly":
+      {"values":
+         [
          {
             "offset":0,
-            "value":3
+            "value":3,
+            "target":4
          },
          {
             "offset":1,
-            "value":4
+            "value":4,
+            "target":4
          },
          {
             "offset":2,
-            "value":2
+            "value":2,
+            "target":4
          },
          {
             "offset":3,
-            "value":1
+            "value":1,
+            "target":4
          },
          {
             "offset":4,
-            "value":3
+            "value":3,
+            "target":4
          },
          {
             "offset":5,
-            "value":3
+            "value":3,
+            "target":4
          },
          {
             "offset":6,
-            "value":3
+            "value":3,
+            "target":4
          },
          {
             "offset":7,
-            "value":4
+            "value":4,
+            "target":2
          }
       ],
-      "chart_efficiency":[
+         "misc":{"target":4,"name":"Hourly EOL Yield"}
+      },
+      
+      "chart_efficiency":
+         {"values":
+         [
          {
             "offset":0,
             "value":88
@@ -69,7 +85,10 @@
             "value":100
          }
       ],
-      "chart_quality":[
+         "misc":{"target":95,"name":"Hourly Efficiency"}
+      },
+      "chart_quality":{
+         "values":[
          {
             "offset":0,
             "value":85
@@ -103,7 +122,10 @@
             "value":116
          }
       ],
-      "chart_oee":[
+         "misc":{"target":90,"name":"Hourly Quality"}
+      },
+      "chart_oee":{
+         "values":[
          {
             "offset":0,
             "value":100
@@ -137,6 +159,8 @@
             "value":100
          }
       ],
+         "misc":{"target":90,"name":"Hourly OEE"}
+      },
       "misc_boxes":[
          {
             "name":"Executed vs Planned",
